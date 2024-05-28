@@ -43,8 +43,3 @@ This code is intended for educational purposes only. It highlights a basic pixel
 This project is licensed under the MIT License.
 
 **Feel free to use this code for learning and experimentation!**
-
-**Additional Notes**
-
-- Consider exploring more advanced image encryption methods for practical use cases.
-- This implementation can be extended to incorporate other pixel manipulation techniques for further experimentation.
